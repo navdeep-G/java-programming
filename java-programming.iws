@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb12461-0f11-404a-83ef-10126b118b66" name="Default" comment="" />
+    <list default="true" id="8bb12461-0f11-404a-83ef-10126b118b66" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DrawTickTacToeBoard/DrawTickTacToeBoard.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DrawTickTacToeBoard/src/drawticktacktoeboard/DrawTickTacToeBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/HelloWorld.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/src/helloworld/HelloWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloYourName2Ways/HelloYourName2Ways.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloYourName2Ways/src/helloyourname2ways/HelloYourName2Ways.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/InteractiveHello.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/src/interactivehello/InteractiveHello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/PrintingPower.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/src/printingpower/PrintingPower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/dist/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/dist/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/SayHello/SayHello.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/SayHello/src/sayhello/SayHello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DrawTickTacToeBoard/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/SayHello/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloYourName2Ways/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/build/built-jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/build/built-jar.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DrawTickTacToeBoard/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloExamples/SayHello/manifest.mf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HelloYourName2Ways/manifest.mf" />
+    </list>
     <ignored path="java-programming.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
