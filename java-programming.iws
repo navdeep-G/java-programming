@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb12461-0f11-404a-83ef-10126b118b66" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/AreaAndPerimeterOfARectangle/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/AreaAndPerimeterOfARectangle/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BasicOperators/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BasicOperators/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BasketballPlayer/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/BasketballPlayer/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/CommonDataTypes/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/CommonDataTypes/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DrawTickTacToeBoard/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DrawTickTacToeBoard/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/FinalGrade/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/HelloWorld/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/build/built-jar.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/dist/README.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/InteractiveHello/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/build/built-jar.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/dist/README.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/PrintingPower/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/SayHello/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloExamples/SayHello/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloYourName2Ways/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/HelloYourName2Ways/manifest.mf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/InteractiveCommonDataTypes/manifest.mf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-programming.ipr" afterPath="$PROJECT_DIR$/java-programming.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-programming.iws" afterPath="$PROJECT_DIR$/java-programming.iws" />
-    </list>
+    <list default="true" id="8bb12461-0f11-404a-83ef-10126b118b66" name="Default" comment="" />
     <ignored path="java-programming.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1300,7 +1271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1005" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1005" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
