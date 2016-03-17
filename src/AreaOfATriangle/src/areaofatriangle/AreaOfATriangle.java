@@ -1,4 +1,4 @@
-/* Challenge Activity 1 - Area of a triangle
+/* Area of a triangle
  * 
  * The area of a triangle is (base * height) /2
  * 

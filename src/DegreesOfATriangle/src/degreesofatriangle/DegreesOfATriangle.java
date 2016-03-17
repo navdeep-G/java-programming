@@ -1,4 +1,4 @@
-/*Challenge Activity 2 - degrees of a triangle
+/*degrees of a triangle
  * 
  * The sum of the 3 angles of any triangle should total 180 degrees.
  * Any more or any less then the figure cannot be a triangle.

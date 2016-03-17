@@ -1,4 +1,4 @@
-/* Challenge Activity 3 - Basketball Player Stats
+/* Basketball Player Stats
 
 This challenge activitiy should ask for the following inputs:
 - a basketball player's name and the following "stats" (all integers)
