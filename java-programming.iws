@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb12461-0f11-404a-83ef-10126b118b66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/OnePlusTwoEqualsTwelve.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/src/oneplustwoequalstwelve/OnePlusTwoEqualsTwelve.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java" afterPath="$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java" afterPath="$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java" afterPath="$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-programming.iws" afterPath="$PROJECT_DIR$/java-programming.iws" />
     </list>
     <ignored path="java-programming.iws" />
@@ -30,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -40,23 +41,23 @@
         <entry file="file://$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DegreesOfATriangle.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DegreesOfATriangle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OnePlusTwoEqualsTwelve.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OnePlusTwoEqualsTwelve.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/src/oneplustwoequalstwelve/OnePlusTwoEqualsTwelve.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -126,12 +127,12 @@
         <option value="$PROJECT_DIR$/src/InteractiveCommonDataTypes/src/interactivecommondatatypes/InteractiveCommonDataTypes.java" />
         <option value="$PROJECT_DIR$/src/FinalGradeInMET100/build.xml" />
         <option value="$PROJECT_DIR$/src/FinalGrade/build.xml" />
-        <option value="$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java" />
-        <option value="$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java" />
-        <option value="$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java" />
         <option value="$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/src/oneplustwoequalstwelve/OnePlusTwoEqualsTwelve.java" />
         <option value="$PROJECT_DIR$/src/RelationalEqualityConditionalOperators/src/relationalequalityconditionaloperators/RelationalQualityConditionalOperators.java" />
         <option value="$PROJECT_DIR$/src/UnderstandingTypeCasting/src/understandingtypecasting/UnderstandingTypeCasting.java" />
+        <option value="$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java" />
+        <option value="$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java" />
+        <option value="$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java" />
       </list>
     </option>
   </component>
@@ -1782,10 +1783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UnderstandingTypeCasting/src/understandingtypecasting/UnderstandingTypeCasting.java">
+    <entry file="file://$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/src/oneplustwoequalstwelve/OnePlusTwoEqualsTwelve.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -1798,18 +1799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/UnderstandingTypeCasting/src/understandingtypecasting/UnderstandingTypeCasting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1817,15 +1810,23 @@
     <entry file="file://$PROJECT_DIR$/src/AreaOfATriangle/src/areaofatriangle/AreaOfATriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OnePlusTwoEqualsTwelve/src/oneplustwoequalstwelve/OnePlusTwoEqualsTwelve.java">
+    <entry file="file://$PROJECT_DIR$/src/BasketballPlayerStats/src/basketballplayer/BasketballPlayerStats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="57" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DegreesOfATriangle/src/degreesofatriangle/DegreesOfATriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
