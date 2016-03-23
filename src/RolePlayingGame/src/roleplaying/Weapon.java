@@ -1,7 +1,7 @@
 /*
  * The vehicle by which a character attacks
  */
-package roleplaying;
+package RolePlayingGame.src.roleplaying;
 
 public class Weapon {
     private String _name;       // Short sword

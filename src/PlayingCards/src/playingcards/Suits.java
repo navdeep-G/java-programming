@@ -1,4 +1,4 @@
-package playingcards;
+package PlayingCards.src.playingcards;
 
 /**
  *

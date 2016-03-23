@@ -13,10 +13,10 @@ Use the Actor and Weapon classes in the roleplaying package to do the following
 8) print out the knight and the snake.
 
  */
-package roleplayinggame;
+package RolePlayingGame.src.roleplayinggame;
 
-import roleplaying.Actor;
-import roleplaying.Weapon;
+import RolePlayingGame.src.roleplaying.Actor;
+import RolePlayingGame.src.roleplaying.Weapon;
 
 public class RolePlayingGame {
 

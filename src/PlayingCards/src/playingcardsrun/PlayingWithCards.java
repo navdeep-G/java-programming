@@ -8,12 +8,10 @@ class in java.util to :
 3) print out both cards and whether they are the same suit.
  
  */
-package playingcardsrun;
+package PlayingCards.src.playingcardsrun;
 
 import java.util.Random;
-import playingcards.Card;
-import playingcards.Ranks;
-import playingcards.Suits;
+import PlayingCards.src.playingcards.*;
 
 public class PlayingWithCards {
 

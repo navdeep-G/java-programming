@@ -2,11 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package playingcards;
+package PlayingCards.src.playingcards;
 
 /**
  * Java implementation of a playing card
- * @author mafudge
+ * @author navdeepgill
  */
 public class Card {    
     private int suit;      // clubs = 0, diamonds = 1, hearts = 2, spades = 3

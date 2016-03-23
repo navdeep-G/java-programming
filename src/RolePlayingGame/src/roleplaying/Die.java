@@ -1,13 +1,13 @@
 /*
  * Dice roller class. Every role hack needs one ;-)
  */
-package roleplaying;
+package RolePlayingGame.src.roleplaying;
 
 import java.util.Random;
 
 /**
  * Simulates dice rolls. Every role playing game needs this.
- * @author mafudge
+ * @author navdeepgill
  */
 public final class Die {
     

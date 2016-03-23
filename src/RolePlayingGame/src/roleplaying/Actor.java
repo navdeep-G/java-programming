@@ -1,11 +1,11 @@
 /*
  * A character can be a player or a monster
  */
-package roleplaying;
+package RolePlayingGame.src.roleplaying;
 
 /**
  * A player or character in the role-playing universe
- * @author mafudge
+ * @author navdeepgill
  */
 public class Actor {
        private String _name;        // Actor name "Valhalla"
