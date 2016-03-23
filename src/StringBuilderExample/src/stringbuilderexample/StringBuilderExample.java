@@ -1,4 +1,4 @@
-package stringbuilderexample;
+package StringBuilderExample.src.stringbuilderexample;
 
 public class StringBuilderExample {
 
