@@ -1,3 +1,3 @@
-# Java-Programming
+# Programming in Java
   
 ![Java](java.jpg)
