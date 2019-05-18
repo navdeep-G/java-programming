@@ -1,4 +1,4 @@
-package rpgabilityscores;
+package RPGAbilityScores;
 
 import java.util.Random;
 
