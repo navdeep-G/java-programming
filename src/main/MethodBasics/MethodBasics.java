@@ -13,14 +13,14 @@ public class MethodBasics {
         width = input.nextInt();
         int per = rectanglePerimeter(length, width);
         int area = rectangleArea(length, width);
-        System.out.printf("Area: %d; Perimeter: %d\n",area,per);
+        System.out.printf("Area: %d; Perimeter: %d\n", area, per);
     }
-    
-    public static int rectangleArea( int someLength, int someWidth) {
-        return someLength*someWidth;
+
+    public static int rectangleArea(int someLength, int someWidth) {
+        return someLength * someWidth;
     }
-    
-    public static int rectanglePerimeter( int someLength, int someWidth) {
-        return 2*(someLength + someWidth);
+
+    public static int rectanglePerimeter(int someLength, int someWidth) {
+        return 2 * (someLength + someWidth);
     }
 }

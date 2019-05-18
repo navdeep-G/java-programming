@@ -10,8 +10,11 @@ class in java.util to :
  */
 package PlayingCards.playingcardsrun;
 
+import PlayingCards.playingcards.Card;
+import PlayingCards.playingcards.Ranks;
+import PlayingCards.playingcards.Suits;
+
 import java.util.Random;
-import PlayingCards.playingcards.*;
 
 public class PlayingWithCards {
 
@@ -20,6 +23,6 @@ public class PlayingWithCards {
         Random gen = new Random();
         Card queenOfHearts = new Card(Ranks.QUEEN, Suits.HEARTS);
         Card randomCard = new Card(gen.nextInt(52));
-        System.out.printf("%s %s Same Suit? %s\n", queenOfHearts, randomCard, randomCard.sameSuit(queenOfHearts));             
+        System.out.printf("%s %s Same Suit? %s\n", queenOfHearts, randomCard, randomCard.sameSuit(queenOfHearts));
     }
 }

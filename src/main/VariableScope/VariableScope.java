@@ -1,4 +1,3 @@
-
 package YourNameObjectStyle.VariableScope;
 
 public class VariableScope {
@@ -10,9 +9,9 @@ public class VariableScope {
         name = "Pete";
         SayHello(name);
     }
-    
-    public static void SayHello( String name ) {
-        System.out.printf("Hello, %s\n",name);
-        name="George";
+
+    public static void SayHello(String name) {
+        System.out.printf("Hello, %s\n", name);
+        name = "George";
     }
 }

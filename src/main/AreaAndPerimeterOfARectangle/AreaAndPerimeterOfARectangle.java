@@ -1,13 +1,13 @@
 /*
  * This program should take two integer inputs:
- *  length and width of a rectangle. 
- *  using those inputs it should calculate and display the 
+ *  length and width of a rectangle.
+ *  using those inputs it should calculate and display the
  *  the area and perimeter of the rectangle.
- * 
+ *
  *  Area = Length x Width
  *  Perimeter 2 x Length x Width
- * 
- * SAMPLE RUN: 
+ *
+ * SAMPLE RUN:
  *  Enter Length: 7
  *  Enter Width: 5
  *  Perimeter : 24

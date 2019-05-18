@@ -1,13 +1,12 @@
-
 package RectangleClassTests.rectangleclassrun;
 
-import java.util.Scanner;
 import RectangleClassTests.shapes.Rectangle;
 
+import java.util.Scanner;
+
 /**
- *
  * Demonstrates use of the Rectangle class
- * 
+ * <p>
  * SAMPLE OUTPUT:
  * Enter Rectangle Length : 5
  * Enter Rectangle Width : 3
@@ -21,7 +20,7 @@ public class RectangleClassRun {
         System.out.print("Enter Rectangle Length : ");
         rect.setLength(input.nextInt());
         System.out.print("Enter Rectangle Width : ");
-        rect.setWidth(input.nextInt());        
-        System.out.printf("Area : %d; Perimeter : %d\n", rect.area(),rect.perimeter());               
+        rect.setWidth(input.nextInt());
+        System.out.printf("Area : %d; Perimeter : %d\n", rect.area(), rect.perimeter());
     }
 }

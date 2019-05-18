@@ -2,22 +2,26 @@ package Banking;
 
 /**
  * For selecting items from the ATM menu.
+ *
  * @author navdeepgill
  */
-public enum  ATMMenu {
-    
-    Deposit("d"), Withdrawl("w"), Balance("b"),Quit("q");
-     
+public enum ATMMenu {
+
+    Deposit("d"), Withdrawl("w"), Balance("b"), Quit("q");
+
     private final String choice;
-    
+
     ATMMenu(String choice) {
         this.choice = choice;
     }
-    
+
     /**
-     * Get the ATM menu value. 
-     * @return 
+     * Get the ATM menu value.
+     *
+     * @return
      */
-    public String Value() { return this.choice; }    
-    
+    public String Value() {
+        return this.choice;
+    }
+
 }

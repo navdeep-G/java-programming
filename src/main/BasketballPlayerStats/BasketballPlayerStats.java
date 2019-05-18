@@ -29,7 +29,6 @@ import java.util.Scanner;
 
 
 /**
- *
  * @author mafudge
  */
 public class BasketballPlayerStats {
@@ -53,13 +52,13 @@ public class BasketballPlayerStats {
         fieldGoalAttempts = input.nextInt();
         System.out.print("Field goals made: ");
         fieldGoalsMade = input.nextInt();
-        double freeThrowPercentage = freeThrowsMade / (double)freeThrowAttempts;
-        double fieldGoalPercentage = fieldGoalsMade / (double)fieldGoalAttempts;
+        double freeThrowPercentage = freeThrowsMade / (double) freeThrowAttempts;
+        double fieldGoalPercentage = fieldGoalsMade / (double) fieldGoalAttempts;
         int totalPoints = freeThrowsMade + 2 * fieldGoalsMade;
-        System.out.printf("%s's Stats:\n",playerName);
+        System.out.printf("%s's Stats:\n", playerName);
         System.out.printf("Total Points: %d\n", totalPoints);
-        System.out.printf("Free-Throw Pct: %.2f\n",freeThrowPercentage);
-        System.out.printf("Field Goal Pct: %.2f\n",fieldGoalPercentage);
+        System.out.printf("Free-Throw Pct: %.2f\n", freeThrowPercentage);
+        System.out.printf("Field Goal Pct: %.2f\n", fieldGoalPercentage);
     }
-    
+
 }

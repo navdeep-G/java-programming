@@ -14,7 +14,6 @@ package HelloYourName2Ways;
 import java.util.Scanner;
 
 /**
- *
  * @author navdeepgill
  */
 public class HelloYourName2Ways {
@@ -30,9 +29,9 @@ public class HelloYourName2Ways {
         firstName = input.nextLine();
         System.out.print("Enter your last name: ");
         lastName = input.nextLine();
-        
+
         System.out.printf("Hello %s %s!\n", firstName, lastName);
         System.out.printf("Or should I say: %s, %s!\n", lastName, firstName);
     }
-    
+
 }

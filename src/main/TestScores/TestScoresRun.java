@@ -1,5 +1,5 @@
 /*
- * 
+ *
  * SAMPLE RUN:
  * Enter Test Score 1 : 75
  * Enter Test Score 2 : 80
@@ -18,7 +18,7 @@
  * Lowest Score...... 5
  * Average Score..... 64.500000
  * Highest Score..... 95
- *  
+ *
  */
 package TestScores;
 
@@ -29,12 +29,12 @@ public class TestScoresRun {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         final int maxScores = 10;
-        int i =0;
+        int i = 0;
         int[] scores = new int[maxScores];
-        while (i<maxScores) {
-            System.out.printf("Enter Test Score %d : ",i+1);
+        while (i < maxScores) {
+            System.out.printf("Enter Test Score %d : ", i + 1);
             scores[i] = input.nextInt();
-            if ((scores[i]>=0 && scores[i]<=100)) {
+            if ((scores[i] >= 0 && scores[i] <= 100)) {
                 i++;
             } else {
                 System.out.println("Invalid Score. Scores must be between 0 and 100.");
@@ -42,9 +42,9 @@ public class TestScoresRun {
         }
         TestScores ts = new TestScores(scores);
         System.out.printf("Test Results:\n");
-        System.out.printf("Number of Tests... %d\n",maxScores);
-        System.out.printf("Lowest Score...... %d\n",ts.Lowest());
-        System.out.printf("Average Score..... %f\n",ts.Average());
-        System.out.printf("Highest Score..... %d\n",ts.Highest());
+        System.out.printf("Number of Tests... %d\n", maxScores);
+        System.out.printf("Lowest Score...... %d\n", ts.Lowest());
+        System.out.printf("Average Score..... %f\n", ts.Average());
+        System.out.printf("Highest Score..... %d\n", ts.Highest());
     }
 }

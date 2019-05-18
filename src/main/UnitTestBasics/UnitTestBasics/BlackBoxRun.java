@@ -9,6 +9,7 @@ we know what is should do and this verify it performs as expected.
 package UnitTestBasics.UnitTestBasics;
 
 import UnitTestBasics.blackbox.BlackBox;
+
 import java.util.Scanner;
 
 public class BlackBoxRun {
@@ -18,6 +19,6 @@ public class BlackBoxRun {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a positive integer: ");
         int number = input.nextInt();
-        System.out.printf("Number %d ==> %s\n",number, b.FizzBuzz(number));
+        System.out.printf("Number %d ==> %s\n", number, b.FizzBuzz(number));
     }
 }

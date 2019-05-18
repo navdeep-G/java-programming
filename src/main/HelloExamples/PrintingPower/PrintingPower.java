@@ -1,7 +1,6 @@
 package HelloExamples.PrintingPower;
 
 /**
- *
  * @author navdeepgill
  */
 public class PrintingPower {
@@ -18,6 +17,6 @@ public class PrintingPower {
         System.out.println("X  \\___/  X"); // "\" is the escape character
         System.out.println("X         X");
         System.out.println("XXXXXXXXXXX");
-        
+
     }
 }

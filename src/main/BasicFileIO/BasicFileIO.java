@@ -10,7 +10,7 @@ public class BasicFileIO {
 
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File("test.txt");
-        
+
         try {
             // Basic Java File IO Demo
             PrintWriter output = new PrintWriter(file);
@@ -20,14 +20,14 @@ public class BasicFileIO {
         } catch (IOException ex) {
             System.out.printf("ERROR: %s!\n", ex);
         }
-        
+
         try {
-            Scanner input = new Scanner( file );
-            String message1  = input.nextLine();
-            String message2  = input.nextLine();
+            Scanner input = new Scanner(file);
+            String message1 = input.nextLine();
+            String message2 = input.nextLine();
             System.out.println(message1);
             System.out.println(message2);
-        
+
         } catch (FileNotFoundException ex) {
             System.out.printf("ERROR: %s!\n", ex);
         }
