@@ -21,7 +21,7 @@
  * Str Int Dex Con Wis Cha
  * 11  17  10  10  13  12
  */
-package rpgabilityscores;
+package RPGAbilityScores;
 
 public class RPGAbilityScores {
 
