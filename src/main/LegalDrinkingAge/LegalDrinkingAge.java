@@ -29,7 +29,7 @@ public class LegalDrinkingAge {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your age : ");
         int age = input.nextInt();
-        if (age < 21 ) {
+        if (age < 21) {
             System.out.printf("You're not of legal drinking age!\n");
         } else {
             System.out.println("You're legal. Enjoy a cold one!\n");

@@ -4,7 +4,7 @@ package CommonDataTypes.BoolExample;
  * @author navdeepgill
  */
 public class Bool {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         boolean b;
 
         b = false;
@@ -13,12 +13,12 @@ public class Bool {
         System.out.println("b is " + b);
 
         //Control if statement with boolean
-        if(b){
+        if (b) {
             System.out.println("This is exectued");
         }
 
         b = false;
-        if(b){
+        if (b) {
             System.out.println("This is not exectued");
         }
 

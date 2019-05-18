@@ -8,7 +8,7 @@ package CommonDataTypes.IntegerExample;
     Compute the number of cubic inches in 1 cubic mile
      */
 public class Inches {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         long ci;
         long im;
 

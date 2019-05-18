@@ -1,4 +1,3 @@
-
 package ForLoopBasics;
 
 public class ForLoopBasics {
@@ -7,15 +6,15 @@ public class ForLoopBasics {
         // this demonstrates the basic for loop for iterating a specific number of times
         int max = 10;
         System.out.println("Counting Up...");
-        for ( int i =1;i<=max;i++ ) {
-            System.out.printf("%d ",i);
+        for (int i = 1; i <= max; i++) {
+            System.out.printf("%d ", i);
         }
         System.out.println();
         System.out.println("Counting Down...");
-        for (int i=max; i>=1; i--) {
-            System.out.printf("%d ",i);
+        for (int i = max; i >= 1; i--) {
+            System.out.printf("%d ", i);
         }
         System.out.println();
-        
+
     }
 }

@@ -17,7 +17,6 @@ import java.util.Scanner;
 
 
 /**
- *
  * @author navdeepgill
  */
 public class BasketballPlayer {
@@ -40,11 +39,11 @@ public class BasketballPlayer {
         int remainingInches = heightInInches % 12;
 
         System.out.printf(
-            "%s is %d feet %d inches tall and averages %f points per game.\n",
-            playerName,
-            heightInFeet,
-            remainingInches,
-            avgPtsPerGame
-        );        
+                "%s is %d feet %d inches tall and averages %f points per game.\n",
+                playerName,
+                heightInFeet,
+                remainingInches,
+                avgPtsPerGame
+        );
     }
 }

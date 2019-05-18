@@ -15,50 +15,52 @@ Threes : 4
 */
 package PlayingCardsCountTheAces.playingcardscounttheaces;
 
+import PlayingCardsCountTheAces.playingcards.Card;
+import PlayingCardsCountTheAces.playingcards.Ranks;
+
 import java.util.ArrayList;
 import java.util.Random;
-import PlayingCardsCountTheAces.playingcards.*;
 
 public class CountTheAcesRun {
-    
-   public static void main(String[] args) { 
-      int aces, nines, threes;
-      int seed = 99;
-      ArrayList<Card> cards = new ArrayList<Card>();
-      Random generator = new Random(seed);
-      for (int i=0;i<25;i++) {
-          cards.add( new Card(generator.nextInt(52)));
-      }
-      
-      System.out.printf("Seed : %d\n",seed);
-      System.out.print("Cards: ");
-      printCards(cards);
-      aces = countCards(cards,Ranks.ACE);
-      System.out.printf("Aces : %d\n",aces);
-      nines = countCards(cards,Ranks.NINE);
-      System.out.printf("Nines : %d\n",nines);
-      threes = countCards(cards,Ranks.THREE);
-      System.out.printf("Threes : %d\n",threes);
-      
-   }
-   
-   // Display the cards
-   public static void printCards(ArrayList<Card> cards) {
-       for (Card c : cards) {
-           System.out.printf("%s ",c);
-       }
-       System.out.println();
-   }
-   
-   // Count cards of a specific rank
-   public static int countCards(ArrayList<Card> cards, int rank) {
-       int count = 0;
-       for (Card c : cards) {
-           if (c.rank()==rank) { 
-               count++;
-           }
-       }
-       return count;
-   }
-    
+
+    public static void main(String[] args) {
+        int aces, nines, threes;
+        int seed = 99;
+        ArrayList<Card> cards = new ArrayList<Card>();
+        Random generator = new Random(seed);
+        for (int i = 0; i < 25; i++) {
+            cards.add(new Card(generator.nextInt(52)));
+        }
+
+        System.out.printf("Seed : %d\n", seed);
+        System.out.print("Cards: ");
+        printCards(cards);
+        aces = countCards(cards, Ranks.ACE);
+        System.out.printf("Aces : %d\n", aces);
+        nines = countCards(cards, Ranks.NINE);
+        System.out.printf("Nines : %d\n", nines);
+        threes = countCards(cards, Ranks.THREE);
+        System.out.printf("Threes : %d\n", threes);
+
+    }
+
+    // Display the cards
+    public static void printCards(ArrayList<Card> cards) {
+        for (Card c : cards) {
+            System.out.printf("%s ", c);
+        }
+        System.out.println();
+    }
+
+    // Count cards of a specific rank
+    public static int countCards(ArrayList<Card> cards, int rank) {
+        int count = 0;
+        for (Card c : cards) {
+            if (c.rank() == rank) {
+                count++;
+            }
+        }
+        return count;
+    }
+
 }

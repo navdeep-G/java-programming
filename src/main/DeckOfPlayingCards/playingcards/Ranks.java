@@ -2,6 +2,7 @@ package DeckOfPlayingCards.playingcards;
 
 /**
  * Possible ranks on the card
+ *
  * @author nagill
  */
 public class Ranks {

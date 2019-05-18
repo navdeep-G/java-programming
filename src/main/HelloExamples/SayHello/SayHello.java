@@ -1,7 +1,6 @@
 package HelloExamples.SayHello;
 
 /**
- *
  * @author navdeepgill
  */
 public class SayHello {

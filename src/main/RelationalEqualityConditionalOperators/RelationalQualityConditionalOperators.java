@@ -9,17 +9,17 @@ public class RelationalQualityConditionalOperators {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter an integer value for X : ");
         int x = input.nextInt();
-        System.out.print("Enter an integer value for Y : ");        
+        System.out.print("Enter an integer value for Y : ");
         int y = input.nextInt();
-        
+
         System.out.printf(" X == Y ? %s\n", x == y);
         System.out.printf(" X != Y ? %s\n", x != y);
         System.out.printf(" X > Y ? %s\n", x > y);
         System.out.printf(" X <= Y ? %s\n", x <= y);
         System.out.printf(" X >= Y ? %s\n", x >= y);
         System.out.printf(" X < Y ? %s\n", x < y);
-        System.out.printf(" X == Y ? awesome : not awesome ? %s\n", x==y? "awesome" : "not awesome");
-        
-        
+        System.out.printf(" X == Y ? awesome : not awesome ? %s\n", x == y ? "awesome" : "not awesome");
+
+
     }
 }

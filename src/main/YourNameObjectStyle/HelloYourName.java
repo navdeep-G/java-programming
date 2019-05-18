@@ -1,4 +1,3 @@
-
 package YourNameObjectStyle;
 
 import java.util.Scanner;
@@ -14,6 +13,6 @@ public class HelloYourName {
         lastName = input.nextLine();
         YourName yourname = new YourName(firstName, lastName);
         System.out.printf("Hello, %s!\n", yourname.fullName());
-        System.out.printf("Or should I say: %s\n", yourname.nameLastFirst());        
+        System.out.printf("Or should I say: %s\n", yourname.nameLastFirst());
     }
 }

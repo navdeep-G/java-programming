@@ -2,15 +2,17 @@ package ASCIIBarChartV2;
 
 /**
  * A Class to store the data points for our bar chart
+ *
  * @author nagill
  */
 public class DataPoint {
-    
+
     private String label;
     private int value;
-    
+
     /**
      * Constructor makes a new data point
+     *
      * @param label the data label for the point
      * @param value the data value for the point
      */
@@ -18,32 +20,34 @@ public class DataPoint {
         this.label = name;
         this.value = value;
     }
-    
+
     /**
      * getter for the label
+     *
      * @return the name of the label
      */
     public String getLabel() {
         return this.label;
     }
-    
+
     /**
      * getter for the value
+     *
      * @return the name of the value
      */
     public int getValue() {
         return this.value;
     }
-    
+
     /**
      * Draws the data point to System.out
      */
     public void plot() {
-        System.out.printf("%10s : [",this.label);
-        for (int i=1;i<=this.value;i++) {
+        System.out.printf("%10s : [", this.label);
+        for (int i = 1; i <= this.value; i++) {
             System.out.print("#");
         }
-        System.out.printf("] (%d)\n",this.value);
+        System.out.printf("] (%d)\n", this.value);
     }
-    
+
 }

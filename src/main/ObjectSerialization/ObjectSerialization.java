@@ -1,4 +1,3 @@
-
 package ObjectSerialization;
 
 import java.io.*;

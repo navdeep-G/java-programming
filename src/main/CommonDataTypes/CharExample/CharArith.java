@@ -4,7 +4,7 @@ package CommonDataTypes.CharExample;
  * @author navdeepgill
  */
 public class CharArith {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         char ch;
 
         ch = 'X';
